@@ -1,0 +1,37 @@
+.box1{
+    width: 300px ; 
+    padding: 20px ;
+    margin: 20px;
+    background-color: gray;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+.box2{
+    width: 400px ; 
+    border: 6px  blue;
+    padding: 20px ;
+    margin: 20px;
+    background-color: khaki;
+    box-sizing: border-box;
+    margin: auto;
+
+
+}
+.box3{
+    width: 500px ; 
+    border: 6px purple;
+    padding: 20px ;
+    margin: 20px;
+    background-color: seagreen;
+    box-sizing: border-box;
+    margin: auto;
+}
+.box4{
+    width: 600px ; 
+    border: 6px dashed hotpink;
+    padding: 20px ;
+    margin: 20px;
+    background-color:lawngreen;
+    margin: auto;
+}
